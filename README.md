@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-📈 My Github Stats
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=geojacobm6&show_icons=true" alt="geojacobm6" />
 
