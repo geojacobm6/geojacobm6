@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 
 
 <p align="left">
-  <strong>Stackoverflow Stats:</strong><br>
-<a href="https://stackexchange.com/users/3820159"><img src="https://stackexchange.com/users/flair/3820159.png?theme=dark" alt="profile for Geo Jacob on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Geo Jacob on Stack Exchange, a network of free, community-driven Q&amp;A sites"></a>
+  <!--strong>Stackoverflow Stats:</strong--><br>
+<a href="https://stackexchange.com/users/3820159"><img src="https://stackexchange.com/users/flair/3820159.png?theme=dark" alt="profile for Geo Jacob on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Geo Jacob on Stackoverflow, a network of free, community-driven Q&amp;A sites"></a>
 </p>
