@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/geojacobm6?color=%231DA1F2&label=Follow%20on%20twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=geojacobm6)
+[![Twitter Follow](https://img.shields.io/twitter/follow/geojacobm6?color=%231DA1F2&label=Follow%20me%20on%20twitter&logoColor=%231DA1F2&style=for-the-badge)](https://twitter.com/intent/follow?screen_name=geojacobm6)
   
   </p>
