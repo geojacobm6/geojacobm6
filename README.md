@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   </p>
   <p align="center">
 
- Follow my journey on [Twitter](https://img.shields.io/twitter/follow/geojacobm6), as I will be inscribing my thoughts there very frequently. 
+ Follow my journey on [Twitter](https://twitter.com/intent/follow?screen_name=geojacobm6), as I will be inscribing my thoughts there very frequently. 
   
   </p>
 
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geojacobm6&show_icons=true&locale=en&layout=compact" alt="geojacobm6" /></p>
 
-<p>&nbsp;<img align="center" width=50% src="https://github-readme-stats.vercel.app/api?username=geojacobm6&show_icons=true&locale=en&count_private=true" alt="geojacobm6" /></p>
+<p>&nbsp;<img align="center" width=44% src="https://github-readme-stats.vercel.app/api?username=geojacobm6&show_icons=true&locale=en&count_private=true" alt="geojacobm6" /></p>
 <!--
 [![Twitter Follow](https://img.shields.io/twitter/follow/geojacobm6?label=People%20following%20me%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=geojacobm6)
 
